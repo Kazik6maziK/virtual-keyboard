@@ -78,8 +78,8 @@
   }
   
   [data-fn="true"] > .letter {
-    font-size: 16px;
-    color: #ffffff;
+    font-size: 23px;
+    color: #635d5d;
   }
   
   [data-code="CapsLock"] {
@@ -91,11 +91,11 @@
   }
   
   [data-code="ShiftRight"] {
-    width: 60px;
+    width: 80px;
   }
   
   [data-code="Enter"] {
-    width: 100px;
+    width: 120px;
   }
   
   [data-code="Tab"] {
@@ -111,11 +111,11 @@
   }
   
   [data-code="Backspace"] {
-    width: 115px;
+    width: 150px;
   }
   
   [data-code="Space"] {
-    width: 420px;
+    width: 400px;
   }
   
   [data-code="AltLeft"],
@@ -131,7 +131,7 @@
   
   .letter {
     margin-right: 15px;
-    font-size: 25px;
+    font-size: 30px;
     width: 100%;
     text-align: center;
   }
@@ -143,7 +143,7 @@
   textarea.output {
     resize: none;
     width: 100%;
-    height: 200px;
+    height: 130px;
     padding: 10px;
     box-sizing: border-box;
     font-size: 18px;

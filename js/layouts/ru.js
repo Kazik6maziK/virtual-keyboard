@@ -90,7 +90,7 @@ export default [
       keycode: '8',
     },
     {
-      small: 'Delete',
+      small: 'Del',
       shift: null,
       code: 'Delete',
       keycode: '46',

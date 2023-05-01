@@ -15,7 +15,7 @@ export default class Keyboard {
   init(code) {
     this.keyBase = language[code];
     this.output = create('textarea', 'output', null, main,
-      ['placeholder', 'type here'],
+      ['placeholder', ''],
       ['rows', 5],
       ['cols', 50],
       ['spellcheck', false],
